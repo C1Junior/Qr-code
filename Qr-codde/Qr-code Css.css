@@ -1,0 +1,40 @@
+.body {
+  background-color: lightgray;
+}
+
+.div {
+  left: 500px;
+  top: 100px;
+  height: 497px;
+  width: 320px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  overflow: hidden;
+  padding: 16px;
+  margin: 25px;
+  position: absolute;
+}
+.img {
+  max-width: 100%;
+  border-radius: 20px;
+}
+.p {
+  color: #7d889e;
+  text-align: center;
+  height: 57px;
+  font-family: "Outfit", sans-serif;
+}
+.h1 {
+  height: 56px;
+  left: 0%;
+  right: 0%;
+
+  font-family: "Outfit", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 28px;
+  text-align: center;
+
+  color: #1f314f;
+}
